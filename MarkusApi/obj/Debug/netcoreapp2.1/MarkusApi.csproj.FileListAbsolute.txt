@@ -1,0 +1,14 @@
+/home/markus/Code/CSharpProject/MarkusApi/bin/Debug/netcoreapp2.1/MarkusApi.deps.json
+/home/markus/Code/CSharpProject/MarkusApi/bin/Debug/netcoreapp2.1/MarkusApi.runtimeconfig.json
+/home/markus/Code/CSharpProject/MarkusApi/bin/Debug/netcoreapp2.1/MarkusApi.runtimeconfig.dev.json
+/home/markus/Code/CSharpProject/MarkusApi/bin/Debug/netcoreapp2.1/MarkusApi.dll
+/home/markus/Code/CSharpProject/MarkusApi/bin/Debug/netcoreapp2.1/MarkusApi.pdb
+/home/markus/Code/CSharpProject/MarkusApi/obj/Debug/netcoreapp2.1/MarkusApi.csprojAssemblyReference.cache
+/home/markus/Code/CSharpProject/MarkusApi/obj/Debug/netcoreapp2.1/MarkusApi.csproj.CoreCompileInputs.cache
+/home/markus/Code/CSharpProject/MarkusApi/obj/Debug/netcoreapp2.1/MarkusApi.RazorAssemblyInfo.cache
+/home/markus/Code/CSharpProject/MarkusApi/obj/Debug/netcoreapp2.1/MarkusApi.RazorAssemblyInfo.cs
+/home/markus/Code/CSharpProject/MarkusApi/obj/Debug/netcoreapp2.1/MarkusApi.AssemblyInfoInputs.cache
+/home/markus/Code/CSharpProject/MarkusApi/obj/Debug/netcoreapp2.1/MarkusApi.AssemblyInfo.cs
+/home/markus/Code/CSharpProject/MarkusApi/obj/Debug/netcoreapp2.1/MarkusApi.RazorTargetAssemblyInfo.cache
+/home/markus/Code/CSharpProject/MarkusApi/obj/Debug/netcoreapp2.1/MarkusApi.dll
+/home/markus/Code/CSharpProject/MarkusApi/obj/Debug/netcoreapp2.1/MarkusApi.pdb
